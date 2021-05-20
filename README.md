@@ -7,7 +7,7 @@ This repository contains Matlab implementations of the following multi-target fi
 
 These filters are described in 
 
-A. F. Garcia-Fernandez, J. L. Williams, L. Svensson and Y. Xia, "A Poisson multi-Bernoulli mixture filter for coexisting point and extended targets," in IEEE Transactions on Signal Processing, 2021 doi: 10.1109/TSP.2021.3072006.
+A. F. Garcia-Fernandez, J. L. Williams, L. Svensson and Y. Xia, "A Poisson multi-Bernoulli mixture filter for coexisting point and extended targets," in IEEE Transactions on Signal Processing,vol. 69, pp. 2600-2610, 2021 doi: 10.1109/TSP.2021.3072006.
 
 
 https://arxiv.org/abs/2011.04464
@@ -22,7 +22,7 @@ Video on GOSPA: https://www.youtube.com/watch?v=M79GTTytvCM
 
 - main_PMBM_point_extended_MC.m runs the point-extended target PMBM/PMB filters
 
--main_MBM_point_extended_MC.m runs the point-extended target MBM/MB filter
+- main_MBM_point_extended_MC.m runs the point-extended target MBM/MB filter
 
 
 

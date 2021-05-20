@@ -4,7 +4,7 @@
 
 % A. F. Garcia-Fernandez, J. L. Williams, L. Svensson and Y. Xia, 
 % "A Poisson multi-Bernoulli mixture filter for coexisting point and extended targets," 
-% in IEEE Transactions on Signal Processing, 2021 doi: 10.1109/TSP.2021.3072006.
+% in IEEE Transactions on Signal Processing, vol. 69, pp. 2600-2610, 2021 doi: 10.1109/TSP.2021.3072006.
 
 % The code is based on the code for the extended target
 % PMBM filter developed by Yuxuan Xia
